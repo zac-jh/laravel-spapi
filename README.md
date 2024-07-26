@@ -10,7 +10,7 @@
     <a href="https://packagist.org/packages/highsidelabs/laravel-spapi"><img alt="License" src="https://img.shields.io/packagist/l/highsidelabs/laravel-spapi.svg?style=flat-square"></a>
 </p>
 
-## Selling Partner API wrapper for Laravel
+## Forked Selling Partner API wrapper for Laravel
 
 Simplify connecting to the Selling Partner API with Laravel. Uses [jlevers/selling-partner-api](https://github.com/jlevers/selling-partner-api) under the hood.
 
