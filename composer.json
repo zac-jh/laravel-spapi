@@ -1,5 +1,5 @@
 {
-    "name": "highsidelabs/laravel-spapi",
+    "name": "zac-jh/laravel-spapi",
     "type": "library",
     "description": "A Laravel wrapper for Amazon's Selling Partner API (via jlevers/selling-partner-api)",
     "version": "1.2.2",
